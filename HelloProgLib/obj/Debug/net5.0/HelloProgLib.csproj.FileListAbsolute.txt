@@ -1,0 +1,12 @@
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\net5.0\HelloProgLib.deps.json
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\net5.0\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\net5.0\ref\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\net5.0\HelloProgLib.pdb
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.csproj.AssemblyReference.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.AssemblyInfo.cs
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\ref\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\net5.0\HelloProgLib.pdb

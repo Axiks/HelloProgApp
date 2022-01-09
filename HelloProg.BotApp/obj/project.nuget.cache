@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBuU8N0TefSjfhBt5apoz2R/pcFs3v/cif7MSmeGZHflqpZLRSFyTocVF1JAFjGH1JBi+N406uq7VW+g7AXUWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niko\\source\\repos\\HelloProgLib\\HelloProg.BotApp\\HelloProg.BotApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niko\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Niko\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

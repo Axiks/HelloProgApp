@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c17e75a-3a35-4e97-865c-cb6e49c2ed8d": {
+      "ProjectGuid": "5c17e75a-3a35-4e97-865c-cb6e49c2ed8d",
+      "DisplayName": "HelloProg.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "01882fec-ead7-4b01-8245-ca33c8eda5aa": {
+      "ProjectGuid": "01882fec-ead7-4b01-8245-ca33c8eda5aa",
+      "DisplayName": "HelloProg.Lib",
+      "ColorIndex": 1
+    },
+    "4adcc354-1b90-49a7-b558-553748d8f276": {
+      "ProjectGuid": "4adcc354-1b90-49a7-b558-553748d8f276",
+      "DisplayName": "HelloProg.ConsoleApp",
+      "ColorIndex": 2
+    },
+    "0b015c12-76ee-4f21-a0a5-8e7b92638e4c": {
+      "ProjectGuid": "0b015c12-76ee-4f21-a0a5-8e7b92638e4c",
+      "DisplayName": "HelloProg.TelegramBot",
+      "ColorIndex": 3
+    },
+    "8459ed0e-7adb-49e7-b2e1-92f0860a0be9": {
+      "ProjectGuid": "8459ed0e-7adb-49e7-b2e1-92f0860a0be9",
+      "DisplayName": "HelloProg.BotApp",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

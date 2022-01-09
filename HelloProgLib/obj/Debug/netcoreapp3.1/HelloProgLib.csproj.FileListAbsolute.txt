@@ -1,0 +1,10 @@
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\netcoreapp3.1\HelloProgLib.deps.json
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\netcoreapp3.1\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\bin\Debug\netcoreapp3.1\HelloProgLib.pdb
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.csproj.AssemblyReference.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.AssemblyInfoInputs.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.AssemblyInfo.cs
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.csproj.CoreCompileInputs.cache
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.dll
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.pdb
+C:\Users\Niko\source\repos\HelloProgLib\HelloProgLib\obj\Debug\netcoreapp3.1\HelloProgLib.GeneratedMSBuildEditorConfig.editorconfig
