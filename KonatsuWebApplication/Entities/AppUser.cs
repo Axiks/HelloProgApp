@@ -7,10 +7,10 @@ namespace KonatsuWebApplication.Entities
 {
     public class AppUser : BaseEntity
     {
-        public string Username { get; }
-        public int FirstName { get; }
-        public int LastName { get; }
+        public string Username { get; set; }
+        public int FirstName { get; set; }
+        public int LastName { get; set; }
         public string About { get; set; }
-        // public List<Habit> Habits { get; set; }
+        public List<Habit> Habits { get; set; }
     }
 }

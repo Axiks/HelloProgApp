@@ -14,5 +14,6 @@ namespace KonatsuWebApplication
         }
 
         public DbSet<AppUser> Users { get; set; }
+        public DbSet<Habit> Habits { get; set; }
     }
 }
